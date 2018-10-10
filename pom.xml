@@ -54,8 +54,6 @@
   <modules>
     <module>spring-cloud-eureka</module>
     <module>spring-cloud-zuul</module>
-    <module>spring-cloud-hystrix</module>
-    <module>spring-cloud-eureka-client</module>
   </modules>
 
 
